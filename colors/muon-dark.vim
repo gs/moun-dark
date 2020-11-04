@@ -61,8 +61,8 @@ if version >= 700 " Vim 7.x specific colors
     hi TablineSel   ctermfg=250 ctermbg=Black cterm=bold              gui=bold        guifg=#bcbcbc       guibg=#1c1c1c
     hi TablineFill  ctermfg=250 ctermbg=237 cterm=underline         gui=underline   guifg=#bcbcbc       guibg=#3a3a3a
 
-    hi Pmenu        ctermfg=250 ctermbg=235 cterm=none              gui=None        guifg=#bcbcbc       guibg=#262626
-    hi PmenuSel     ctermfg=117 ctermbg=Black cterm=underline         gui=underline   guifg=#87dfff       guibg=#1c1c1c
+    hi Pmenu        ctermfg=NONE ctermbg=Black cterm=NONE            guifg=NONE      guibg=NONE          gui=NONE
+    hi PmenuSel     ctermfg=NONE ctermbg=Black cterm=NONE              guifg=NONE      guibg=#313343       gui=NONE
     hi PmenuSbar    ctermfg=116 ctermbg=Black cterm=none              gui=None        guifg=#87dfdf       guibg=#1c1c1c
     hi PmenuThumb   ctermfg=116 ctermbg=116 cterm=none              gui=None        guifg=#87dfdf       guibg=#87dfdf
 
