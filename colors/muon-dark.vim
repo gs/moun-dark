@@ -11,7 +11,7 @@ if version > 580
     syntax reset
     endif
 endif
-let g:colors_name="muon"
+let g:colors_name="muon-dark"
 
 hi Normal       ctermfg=250 ctermbg=Black                             gui=None        guifg=#bcbcbc       guibg=#1c1c1c
 hi LineNr       ctermfg=239 ctermbg=Black                             gui=None        guifg=#4e4e4e       guibg=#1c1c1c
