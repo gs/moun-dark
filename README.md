@@ -10,7 +10,7 @@ Assuming you are using a [vim-plug](https://github.com/junegunn/vim-plug)
 
 `PlugInstall`
 
-`colorscheme mount-dark`
+`colorscheme muon-dark`
 
 and enjoy.
 
